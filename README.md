@@ -1,4 +1,4 @@
-# LEGO Set Explorer: A Power BI Dashboard
+# LEGO Sets Explorer: A Power BI Dashboard
 
 ## Overview
 This project is a guided initiative from **Maven Analytics**, designed to create an interactive Power BI dashboard that helps LEGO enthusiasts explore and discover LEGO sets based on specific criteria. 
