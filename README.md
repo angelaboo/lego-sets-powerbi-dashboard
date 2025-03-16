@@ -21,8 +21,8 @@ Through this project, I aimed to:
 
 <br>
 
-## Dashboard Snapshot  
-Below is a snapshot of the Power BI dashboard:
+## Dashboard Snapshots  
+Below are snapshots of the Power BI dashboard:
 
 ### 1. **Main Page**
 The main page provides an overview of all LEGO sets, allowing users to filter and explore data dynamically. Key metrics such as the total number of sets, total pieces, and average retail price are displayed.
